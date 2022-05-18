@@ -1,6 +1,6 @@
 # Historical-Stock-Prices-Analysis
 A repository for the analysis of the historical stock prices of the top 10 popular companies in the United States of America. <br />
-The datasets and SQL codes used for this project are included in the repository. <br />
+The datasets used for this project are included in the repository. <br />
 
 ## Introduction
 In this project, I analysed the records of the stock prices of the top 10 popular companies (Apple, 
