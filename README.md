@@ -27,6 +27,7 @@ The datasets of this project contains 10 CSV files containing data for each of t
 * __Average Adjusted Closing Price By Year__:
 
 ## Recommendations
+From my analysis, I recommend that
 
 ## Relevant Links
 * [Tableau Dashboard](https://public.tableau.com/views/HistoricalStockPricesDashboard_16528514692150/HistoricalStockPriceDashboard?:language=en-US&:retry=yes&:display_count=n&:origin=viz_share_link)
