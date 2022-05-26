@@ -27,10 +27,10 @@ The following are some of the key insights I generated;
 * __Average Low Price By Year__: 'Amazon' records the highest average low price of $3,311 in 2021 while 'Tesla' records the lowest average low price of $5 in 2011.
 * __Average High Price By Year__: 'Amazon' records the highest average high price of $3,379 in 2021 while 'Tesla' records the lowest average high price of $5 in 2011.
 * __Average Opening Price By Year__: 'Amazon' records the highest average opening price of $3,345 in 2021 while 'Tesla' records the lowest average opening price of $5 in 2011.
-* __Average Adjusted Closing Price By Year__: 'Amazon' records the highest average adjsuted closing price of $3,344 in 2021 while 'Tesla' records the lowest average adjsuted closing price of $5 in 2011.
+* __Average Adjusted Closing Price By Year__: 'Amazon' records the highest average adjusted closing price of $3,344 in 2021 while 'Tesla' records the lowest average adjusted closing price of $5 in 2011.
 
 ## Recommendations
-From my analysis, I recommend that
+From my analysis, companies like 'Amazon' with stocks having high volatility leads to high risks which is the reason why they have the highest stock volumes. I recommend buying stocks with Amazon which yields higher annual returns when compared to other companies.
 
 ## Relevant Links
 * [Tableau Dashboard](https://public.tableau.com/views/HistoricalStockPricesDashboard_16528514692150/HistoricalStockPriceDashboard?:language=en-US&:retry=yes&:display_count=n&:origin=viz_share_link)
